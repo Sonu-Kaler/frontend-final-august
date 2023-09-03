@@ -1,0 +1,161 @@
+.col-2>img{
+    width: 100%;
+}
+.hire-section,.top{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.hire-head{
+    text-align: center;
+}
+
+.my-card{
+    width: 35vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 600px;
+    justify-content: center;
+}
+
+.place{
+    width: 30vw;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+.button>button{
+    background-color: rgb(0, 0, 0);
+    /* padding: 10px 20px; */
+    /* width: 100%; */
+    border: none;
+    color: white;
+    
+}
+
+.course-section{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.course-head{
+    text-align: center;
+}
+
+
+.card-item{
+    width: 150px;
+    /* background-color: aquamarine; */
+    margin: 10px;
+}
+
+.card-container{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.header1{
+    width: 40vw;
+}
+
+.card-info>p{
+    margin: 0;
+}
+
+.info-head{
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.info-par{
+    font-size: 14px;
+}
+
+.header1>h1{
+    font-size: 60px;
+    font-weight: 400;
+    font-style: italic;
+}
+
+.header1>p{
+    margin-top: 30px;
+    font-size: 22px;
+    width: 80%;
+}
+
+.made-with{
+    background-color: aqua;
+    padding: 10px 20px;
+    border-radius: 20px;
+    margin-top: 60px;
+    width: 40%;
+}
+
+.my-form{
+    background-color: rgb(255, 255, 255);
+    height: 600px;
+    border-radius: 20px;
+}
+
+.my-form>h1{
+    font-style: italic;
+    font-weight: 500;
+}
+
+.my-form>p{
+    font-size: 20px;
+    width: 75%;
+    color: rgb(129, 129, 129);
+}
+
+.header2{
+    width: 25vw;
+    text-align: center;
+}
+
+header{
+    width: 80%;
+    margin: auto;
+}
+
+.input-box>input{
+    width: 100%;
+    padding: 15px 10px;
+    border: none;
+    border-radius: 5px;
+    background-color: rgb(247, 247, 247);
+}
+
+.input-box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 90%;
+    background-color: rgb(247, 247, 247);
+    margin-top: 10px;
+    padding: 0px 10px;
+}
+
+.apply-now{
+    width: 90%;
+    padding: 10px 20px;
+    border: none;
+    margin-top: 30px;
+    background-color: black;
+    color: white;
+}
+
+.apply-para{
+    margin-top: 20px;
+    font-size: 20px;
+    font-size: 20px;
+    width: 75%;
+    color: rgb(129, 129, 129);
+}
